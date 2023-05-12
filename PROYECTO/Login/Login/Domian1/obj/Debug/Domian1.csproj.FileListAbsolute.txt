@@ -1,0 +1,13 @@
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\Domian1.dll.config
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\Domian1.dll
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\Domian1.pdb
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\DataAccess.dll
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\DataAccess.pdb
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\DataAccess.dll.config
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\obj\Debug\Domian1.csprojAssemblyReference.cache
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\obj\Debug\Domian1.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\obj\Debug\Domian1.csproj.CopyComplete
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\obj\Debug\Domian1.dll
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\obj\Debug\Domian1.pdb
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\ClassLibrary2.dll
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\Domian1\bin\Debug\ClassLibrary2.pdb

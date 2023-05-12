@@ -1,0 +1,6 @@
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\JUNIOR\Desktop\informatica\3er ciclo\Herramientas de Programación I\C# 2017\C#\PROYECTO\Login\Login\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
